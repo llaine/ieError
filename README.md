@@ -2,7 +2,7 @@ Internet Explorer error generator
 =================================
 ![ieError][1]
 
-Reminds the old good times to users with this tiny library!
+Reminds the old good times with this tiny library!
 
 You also can draw with this !  
 
@@ -12,18 +12,26 @@ You also can draw with this !
 
 # Usage 
 
-`var ieError = new ieError();`
+```javascript
 
+var ieError = new ieError();`
+
+```
 
 If you want to enable the debug mode 
 
-`var ieError = new ieError(true); `
+```javascript
+
+var ieError = new ieError(true); 
+
+```
 
 And that's all ! 
 
 # Configuration 
 
-```
+```javascript
+
 /* the dom element to append */
 var bodyNode = $('body') 
 /* the error image */
@@ -38,6 +46,6 @@ var bodyNode = $('body')
 # Requirements
 
 - _jQuery_
-- _JQuery-ui_
+- _jQuery-ui_
 
 [1]: ./assets/ieError.png
