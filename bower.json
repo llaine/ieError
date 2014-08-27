@@ -1,0 +1,21 @@
+{
+  "name": "ieError",
+  "main": "ieError.js",
+  "version": "0.0.1",
+  "authors": [
+    "louis.laine7@gmail.com"
+  ],
+  "description": "Just for fun, a replica of the internet explorer errors ! ",
+  "keywords": [
+    "ieError",
+    "jquery",
+    "windows",
+    "draggable"
+  ],
+  "license": "MIT",
+  "homepage": "ieerror.github.io",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "jquery-ui": "~1.11.1"
+  }
+}
