@@ -14,7 +14,7 @@ You also can draw with this !
 
 ```javascript
 
-var ieError = new ieError();`
+var ieError = new ieError();
 
 ```
 
@@ -34,9 +34,9 @@ And that's all !
 
 /* the dom element to append */
 var bodyNode = $('body') 
-/* the error image */
+/* error image */
 , img = "./assets/ieError.gif" 
-/* the number of millisecond of waiting between each snap */
+/* number of millisecond between each snap */
 , timeOut = 100; 
 
 
